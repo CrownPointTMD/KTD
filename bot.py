@@ -1,7 +1,8 @@
+# I understand the bot code is a mess. This is one of my first discord.py bots. The source-code is well horrible. I'm making it free so you can learn off my mistakes. 
+
 import discord
 import asyncio
 client = discord.Client()
-
 
 import discord
 from discord.ext import commands
